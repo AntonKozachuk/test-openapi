@@ -22,7 +22,7 @@ Bundles the definition to the dist folder.
 #### `npm test`
 Validates the definition.
 
-## Contribution Guide
+## Contribution Guide 
 
 Below is a sample contribution guide. The tools
 in the repository don't restrict you to any
