@@ -13,7 +13,7 @@
 
 ### Usage
 
-#### `npm start`
+#### `npm start` 
 Starts the reference docs preview server.
 
 #### `npm run build`
