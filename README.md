@@ -1,4 +1,4 @@
-# OpenAPI Definition Starter
+# OpenAPI Definition Starter 
 
 ## How to use this starter
 
