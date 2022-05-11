@@ -31,7 +31,7 @@ to match your own structure. However, if you
 don't have a structure in mind, this is a
 good place to start.
 
-Update this contribution guide if you
+Update this contribution guide if you test
 adjust the file/folder organization.
 
 The `.redocly.yaml` controls settings for various
